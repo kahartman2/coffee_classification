@@ -26,4 +26,4 @@ Over the past decade, coffee quality and small farm coffee beans have become a t
 
 ![](https://github.com/kahartman2/beautiful_coffee/blob/master/confusion_matrix2.png)
 
-![](https://github.com/kahartman2/beautiful_coffee/blob/master/roc_curve.png)
+![](https://github.com/kahartman2/beautiful_coffee/blob/master/roc_curve2.png)
