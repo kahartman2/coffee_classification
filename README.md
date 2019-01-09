@@ -24,6 +24,6 @@ Over the past decade, coffee quality and small farm coffee beans have become a t
   -We chose to initial test our data using Random Forest, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and       XCGoost. After comparing the accuracy scores of the models using pipeline with grid search, we found that our best performing 
   model was SVM with the following parameters: Kernel = linear, gamma = .001, and C = 10. 
 
-![](https://github.com/kahartman2/beautiful_coffee/blob/master/confusion_matrix.png)
+![](https://github.com/kahartman2/beautiful_coffee/blob/master/confusion_matrix2.png)
 
 ![](https://github.com/kahartman2/beautiful_coffee/blob/master/roc_curve.png)
