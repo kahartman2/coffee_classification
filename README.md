@@ -11,6 +11,8 @@ Over the past decade, coffee quality and small farm coffee beans have become a t
   -Taste Measurements: Aroma, Flavor, Aftertaste, Acidity, Body, Balance, Uniformity, and Sweetness
   -Geographical Measurements:  Altitude, Region, and Country
   -Other notable measurements:  Color, Quakers, Processing Methods, Variety, Defects, and Vintage
+  
+![](https://github.com/kahartman2/beautiful_coffee/blob/master/describe)
 
 #### Key Cleaning Steps: 
   -Dropped any row missing more than four features that we could not fill in (ie. region) 
