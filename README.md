@@ -1,6 +1,4 @@
-# Python with Java 
-
-!['java.png'](https://raw.githubusercontent.com/kahartman2/beautiful_coffee/java.png)
+![](https://github.com/kahartman2/beautiful_coffee/blob/master/java.png)
 
 #### Data Selection 
 
