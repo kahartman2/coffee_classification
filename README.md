@@ -12,7 +12,7 @@ Over the past decade, coffee quality and small farm coffee beans have become a t
   -Geographical Measurements:  Altitude, Region, and Country
   -Other notable measurements:  Color, Quakers, Processing Methods, Variety, Defects, and Vintage
   
-![](https://github.com/kahartman2/beautiful_coffee/blob/master/describe)
+![](https://github.com/kahartman2/beautiful_coffee/blob/master/describe.png)
 
 #### Key Cleaning Steps: 
   -Dropped any row missing more than four features that we could not fill in (ie. region) 
